@@ -52,6 +52,6 @@ search("Jones");
 add(
     firstName = prompt("First Name?"),
     lastName = prompt("Last Name?"),
-    email = prompt("Email adress?"),
+    email = prompt("Email address?"),
     telephone = prompt("Phone?")
     );
