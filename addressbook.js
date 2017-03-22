@@ -1,5 +1,5 @@
 var bob = {
-    firstName: "Bob",
+    firstName: "Jack",
     lastName: "Jones",
     
     phoneNumber: "(650) 777 - 7777",
